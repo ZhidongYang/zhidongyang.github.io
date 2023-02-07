@@ -10,9 +10,9 @@ redirect_from:
 
 Hi, this is Zhidong Yang, a 4th year Ph.D. student in Institute of Computing Technology, Chinese Academy of Sciences, jointly supervised by Prof. [Fa Zhang](http://www.ict.ac.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496774.html) and [Renmin Han](https://faculty.sdu.edu.cn/hanrenmin/en/zhym/990737/list/index.htm). My research focuses on Machine Learning methods for Cryo-Electron Tomography and Bioinformatics.
 
-## Background
+## Education
 
-Ph.D. Student. Sep. 2019 - Present, [Institute of Computing Technology](http://english.ict.cas.cn/), Chinese Academy of Sciences.<br>
+Ph.D. Student. Sep. 2019 - Pre., [Institute of Computing Technology](http://english.ict.cas.cn/), Chinese Academy of Sciences.<br>
 Bachelor of Engineering. Sep. 2015 - Jun.2019, [Software College](http://sc.neu.edu.cn/english/main.htm), [Northeastern University](http://english.neu.edu.cn/).
 
 ## Publication
