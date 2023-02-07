@@ -12,7 +12,7 @@ Hi, this is Zhidong Yang, a 4th year Ph.D. student in Institute of Computing Tec
 
 ## Education
 
-Ph.D. Student. Sep. 2019 - Pre., [Institute of Computing Technology](http://english.ict.cas.cn/), Chinese Academy of Sciences.<br>
+Ph.D. Student. Sep. 2019 - Present, [Institute of Computing Technology](http://english.ict.cas.cn/), Chinese Academy of Sciences.<br>
 Bachelor of Engineering. Sep. 2015 - Jun.2019, [Software College](http://sc.neu.edu.cn/english/main.htm), [Northeastern University](http://english.neu.edu.cn/).
 
 ## Publication
