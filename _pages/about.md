@@ -21,6 +21,13 @@ Bachelor of Engineering. Sep. 2015 - Jun.2019, [Software College](http://sc.neu.
 
 ---
 
+<b>Simulation-aware Image Mixing for Cryo-EM Micrograph Denoising</b><br>
+<b>Zhidong Yang</b>\+, Hongjia Li, Fa Zhang\*, Renmin Han\*<br>
+<i>In Submission, 2023</i><br>
+[[Paper(Coming soon)]](https://arxiv.org) [[Code]](https://github.com)<br>
+
+---
+
 <b>Self-Supervised Noise Modeling and Sparsity Guided Cryo-ET Image Denoising</b><br>
 <b>Zhidong Yang</b>\+, Dawei Zang\+, Hongjia Li, Zhao Zhang, Fa Zhang\*, Renmin Han\*<br>
 <i>In Submission, 2023</i><br>
